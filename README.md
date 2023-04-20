@@ -1,1 +1,1 @@
-# DC_Paxos_Algorithm-MSc_yr1_sem2
+# Paxos Algorithm Implementation- MSc Year 1 Semester 2
