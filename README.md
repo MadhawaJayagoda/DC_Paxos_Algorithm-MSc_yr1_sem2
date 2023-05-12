@@ -1,4 +1,4 @@
-# Paxos Algorithm Implementation - MSc Year 1 Semester 2
+# Paxos Algorithm Implementation- MSc Year 1 Semester 2
 
 This GitHub repository contains an implementation of the Paxos algorithm, providing a robust and efficient solution for reaching consensus in distributed systems. This is done as an assignment for MSc Year 1 Semester 2 - Distributed Computing, where there is a list of numbers and out of them prime numbers should be detected using Paxos algorithm. 
 There are mainly three roles:
